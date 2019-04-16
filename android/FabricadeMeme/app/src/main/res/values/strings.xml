@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fabrica de Meme</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Figurinhas</string>
+    <string name="title_notifications">Sobre</string>
+    <string name="title_load">Carregar</string>
+    <string name="title_save">Salvar</string>
+    <string name="title_share">Compartilhar</string>
+</resources>
